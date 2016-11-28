@@ -11,4 +11,4 @@ npm install
 npm start
 ```
 
-Note: Unable to reproduce this bug in a fiddle. http://jsfiddle.net/v4veLo4o/1/
+Note: I was unable to reproduce this bug in a fiddle (http://jsfiddle.net/v4veLo4o/1/) but it looks like it's still off by one pixel.
