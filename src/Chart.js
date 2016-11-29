@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Highcharts from 'highcharts'
 
-require('highcharts-more')(Highcharts)
+require('highcharts/highcharts-more')(Highcharts)
 
 class Chart extends Component {
   componentDidMount() {

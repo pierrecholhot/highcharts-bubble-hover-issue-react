@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "highcharts": "^5.0.4",
-    "highcharts-more": "^0.1.2",
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
   },
